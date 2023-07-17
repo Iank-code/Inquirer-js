@@ -1,1 +1,2 @@
 # Inquirer-js
+I am using inquirer package. Inquirer.js is a collection of common interactive command line interfaces for taking inputs from user. It is promise based and supports chaining series of prompt questions together, receiving text input, checkboxes, lists of choices and much more.
